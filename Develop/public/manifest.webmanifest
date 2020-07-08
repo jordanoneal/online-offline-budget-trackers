@@ -1,0 +1,8 @@
+{
+  "name": "Online/Offline Budget Trackers",
+  "short_name": "Budget App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#00FA9A",
+  "description": "add expenses and deposits to their budget with or without a connection."
+}
